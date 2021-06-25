@@ -1,0 +1,19 @@
+{
+    "name": "adiechahk/papi",
+    "description": "This package is used for generating open api docs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Harikrushna V Adiecha",
+            "email": "adiechahari@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AdiechaHK\\PAPI\\": "src/"
+        }
+    }
+}
